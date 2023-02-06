@@ -9,3 +9,19 @@ The platform was soft-launched in December 2019. A pilot was initially launched 
 In October 2020, JioMart signed an agreement with Infibeam Avenues. Under this deal, Jio will use Infibeam's solutions to power its e-commerce and digital payments services.[14]
 
 In August 2022, JioMart signed an agreement with Facebook to launch first-ever end-to-end shopping experience on WhatsApp. Under this deal, Jio will use WhatsApp's chat solutions to power its grocery shopping service in India.[15]
+
+
+
+<br>
+<hr>
+<b>Tech-Stack=></b> HTML | CSS | JavaScript | React | Redux | ChakraUI | Json-server(Deployed on render)
+<br>
+<hr>
+Deployed Link-https://timely-granita-2c92f4.netlify.app/
+<br>
+<hr>
+Landing Page-<img src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1675189130_JioMart_7MSDFeb_1680x320_KV.jpg" width="100%" height="500">
+HomePage-<img src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1675480947_1_Banner_Desktop.jpg" width="100%" height="500">
+bottom-page-<img src="https://www.jiomart.com/images/cms/aw_rbslider/slides/1675448764_Aaj-ki-Deals_Web.jpg" alt="Girl in a jacket" width="100%" height="500">
+
+
